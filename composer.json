@@ -6,10 +6,7 @@
     "autoload": {
         "psr-4": {
             "apiProcess\\": "src/"
-        },
-        "files" : [
-            "src/helper.php"
-        ]
+        }
     },
     "authors": [
         {
