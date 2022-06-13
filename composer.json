@@ -1,0 +1,23 @@
+{
+    "name": "cocolait/api_send",
+    "description": "api接口加密传输",
+    "license": "apache",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "apiProcess\\": "src/"
+        },
+        "files" : [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Cocolait",
+            "email": "enkipen@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
