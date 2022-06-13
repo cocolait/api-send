@@ -1,7 +1,7 @@
 {
     "name": "cocolait/api_send",
     "description": "api接口加密传输",
-    "license": "apache",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
